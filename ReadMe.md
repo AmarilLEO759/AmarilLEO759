@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante em Analise e Desenvolvimento de Software <br>Estou á procura de estágio para adquirir novos conhecimentos<br>Estudando atualmente HTML, CSS e JavaScript <br>
+Estudante em Analise e Desenvolvimento de Software <br> Iniciando no mundo da programação com foco, disciplina e vontade de aprender<br>Estudando atualmente HTML, CSS e JavaScript <br>
 
 
 ## 🌐 Socials:
