@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante em Desenvolvimento Backend <br>Estou á procura de estágio para adquirir novos conhecimentos<br>Estudando atualmente JAVA<br>
+Estudante em Analise e Desenvolvimento de Software <br>Estou á procura de estágio para adquirir novos conhecimentos<br>Estudando atualmente HTML, CSS e JavaScript <br>
 
 
 ## 🌐 Socials:
